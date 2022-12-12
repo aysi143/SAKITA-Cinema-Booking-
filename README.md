@@ -160,7 +160,7 @@ Thanks go to these wonderful people ✨
     <!-- Aysi -->
     <td align="center"><a href="https://github.com/aysi143"><img src="https://avatars.githubusercontent.com/u/49403558?v=4" width="85px;" alt=""/><br /><sub><b>Aysanew Yonas (IC)</b></sub></a><br /><a href="https://github.com/scoobytux/movielab/commits?author=phuongvu0804" title="Code">💻</a><a href="https://github.com/scoobytux/movielab/commits?author=phuongvu0804" title="Documentation">📖</a></td>
     <!-- Brikty -->
-    <td align="center"><a href="https://github.com/scoobytux"><img src="https://avatars.githubusercontent.com/u/72339711?v=4l" width="85px;" alt=""/><br /><sub><b>Brikty (Bk)</b></sub></a><br /><a href="https://github.com/scoobytux/movielab/commits?author=scoobytux" title="Code">💻</a><a href="https://github.com/scoobytux/movielab/commits?author=scoobytux" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/scoobytux"><img src="https://avatars.githubusercontent.com/u/52013646?v=4" width="85px;" alt=""/><br /><sub><b>Brikty (Bk)</b></sub></a><br /><a href="https://github.com/biti2008" title="Code">💻</a><a href="https://github.com/scoobytux/movielab/commits?author=scoobytux" title="Documentation">📖</a></td>
   </tr>
 </table>
 <!-- markdownlint-restore -->
