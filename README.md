@@ -1,4 +1,4 @@
-# Finnkino Cinema
+# SAKITA Movies
 
 A movie ticket booking website built with **ReactJS**, **Redux** and **Material UI**.
 
@@ -24,15 +24,6 @@ Use this account for testing:
 - [Material UI][mui]: React-based UI component library.
 - [SCSS/Sass][sass]: CSS pre-processor for styling the website.
 
-[stack]: src/assets/docs-images/finnkino-tech-stack.png
-[reactjs]: https://reactjs.org/
-[redux]: https://redux.js.org/
-[redux-thunk]: https://github.com/reduxjs/redux-thunk
-[mui]: https://mui.com/
-[sass]: https://sass-lang.com/
-[react-hook-form]: https://react-hook-form.com/
-[formik]: https://formik.org/docs/overview
-[yup]: https://github.com/jquense/yup
 
 <!-- ## Tasks
 
